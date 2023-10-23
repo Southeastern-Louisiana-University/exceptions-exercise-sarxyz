@@ -1,4 +1,4 @@
-package chapter12;
+package chapter12a;
 
 public class CircleWithException {
   /** The radius of the circle */
